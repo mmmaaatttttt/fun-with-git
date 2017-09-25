@@ -1,1 +1,1 @@
-console.log("here is an awesome feature!");
+alert("here is an awesome feature!");
